@@ -1,7 +1,6 @@
 // ITCS2520Assign5Mod.cpp //
 
-
-// Johnny Utah owns a surf shop on the beach called ìPoint Break Surf Shopî. //
+// Johnny Utah owns a surf shop on the beach called ‚ÄúPoint Break Surf Shop‚Äù. //
 // Johnny sells surfboards in three sizes: xxxsmall (squirrel-sized), small (2 meters), medium (3 meters), and large (4 meters). //
 // The cost of one xxxsmall surfboard is $5.00, one small surfboard is $175.00, one medium is $190.00, and one large is $200.00. //
 // Write a program that will make the surf shop operational. // 
